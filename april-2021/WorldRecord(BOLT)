@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class BOLT {
+class CodeChef {
 
     public static boolean solve(double[] arr, int sizeOfArray) {
         
