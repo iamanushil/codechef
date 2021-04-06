@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 
-class SOCKS1 {
+class CodeChef {
 
     public static String solve(int[] arr, int sizeOfArray) {
             
