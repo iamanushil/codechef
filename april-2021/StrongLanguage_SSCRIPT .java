@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class SSCRIPT {
+class CodeChef {
 
     public static boolean solve(String str, int n, int k) {
         
