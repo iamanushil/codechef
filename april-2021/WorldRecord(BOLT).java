@@ -14,6 +14,7 @@ class CodeChef {
         double v = arr[3];
         
         double value = k1*k2*k3*v;
+        
         double ans = Math.round((100/value) * 100.0) / 100.0;
         
         if (ans < 9.58)
